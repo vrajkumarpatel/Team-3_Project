@@ -1,7 +1,9 @@
 
 def run_menu():
     """
-    Displays a numbered menu and allows the user to select an option
+    Author: Vreaj Patel, Manuel Sarmiento, Chyngyz Satarov 
+    Date: 10/14/2025
+    Purpose: Displays a numbered menu and allows the user to select an option
     or exit the program. 
     """
     # The menu options
@@ -52,3 +54,4 @@ def run_menu():
 
 if __name__ == "__main__":
     run_menu()
+
