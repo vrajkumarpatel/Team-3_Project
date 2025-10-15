@@ -1,5 +1,5 @@
 """
-Author: Vreaj Patel, Manuel Sarmiento, Chyngyz Satarov
+Author: Vraj Patel, Manuel Sarmiento, Chyngyz Satarov
 Date: 10/14/25
 Purpose: This program lists an options to choose,
          and prints the chosen activity.
